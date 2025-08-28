@@ -1,7 +1,10 @@
 # Hi, I'm Caterina Mennito 👋
-
-Welcome! This repo is my personal portfolio and CV.
-
+```bash
+> Hi, I'm Caterina 👋
+> Curious problem-solver | Linguist ➡️ Web Dev ➡️ Data Engineer
+>
+> Welcome! This repo is my personal portfolio and CV.
+```
 ##  Menu
 - [About Me](#about-me)
 - [Curriculum Vitae](#curriculum-vitae)
