@@ -59,8 +59,13 @@ Showcase 3–6 standout projects with bullet list:
 - Project Title — one-line description + key tech + [GitHub repo link]
 - Highlight why it's significant or technical achievements.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+## 🌟 Featured Projects
+|                                                                                                                |                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| [![Spotify Music Explorer](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=elasticsearch-spotify-music-explorer&theme=tokyonight)](https://github.com/caterinamennito/elasticsearch-spotify-music-explorer) | [![Movie Social Graph](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=Movie-Social-Graph-with-Neo4j&theme=tokyonight)](https://github.com/caterinamennito/Movie-Social-Graph-with-Neo4j) |
+| [![Library Catalog](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=Library-catalog---MongoDB&theme=tokyonight)](https://github.com/caterinamennito/Library-catalog---MongoDB) | [![Caching with Redis](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis&theme=tokyonight)](https://github.com/caterinamennito/challenge-caching-csv-redis) |
+[![Wikipedia Scraper](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper&theme=tokyonight)](https://github.com/caterinamennito/wikipedia-scraper)
+
 
 ---
 
