@@ -55,11 +55,7 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 ---
 
 ## Featured Projects
-Showcase 3–6 standout projects with bullet list:
-- Project Title — one-line description + key tech + [GitHub repo link]
-- Highlight why it's significant or technical achievements.
-
-## 🌟 Featured Projects
+Some of my recent projects from BeCode Data Engineering bootcamp
 |                                                                                                                |                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [![Spotify Music Explorer](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=elasticsearch-spotify-music-explorer&theme=tokyonight)](https://github.com/caterinamennito/elasticsearch-spotify-music-explorer) | [![Movie Social Graph](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=Movie-Social-Graph-with-Neo4j&theme=tokyonight)](https://github.com/caterinamennito/Movie-Social-Graph-with-Neo4j) |
