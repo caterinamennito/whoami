@@ -1,15 +1,17 @@
+<div style="background-color:#0d1117; color:#c9d1d9; padding:15px; border-radius:10px">
+
 # Hi, I'm Caterina Mennito 👋
+*Linguist ➡️ Web Dev ➡️ Data Engineer*
 ```bash
-> Hi, I'm Caterina 👋
-> Curious problem-solver | Linguist ➡️ Web Dev ➡️ Data Engineer
+> Hi, I am Caterina 👋
 >
 > Welcome! This repo is my personal portfolio and CV.
+
 ```
 ##  Menu
 - [About Me](#about-me)
 - [Curriculum Vitae](#curriculum-vitae)
 - [Featured Projects](#featured-projects)
-- [Other Repositories](#other-repositories)
 - [Connect with Me](#connect-with-me)
 
 ---
@@ -35,10 +37,10 @@ These are the main projects I worked on:
 - Contributed to AI-powered features, leveraging machine learning APIs to enhance the learning experience.
 - ...and much more!
 
-### Codestack:
-#### Webdev:
+### Technologies:
+#### Web Development:
 JavaScript, TypeScript, React, React Native, Redux, GraphQL, PostgreSQL, Node.js
-#### Data Engineer:
+#### Data Engineering:
 Python, SQL, AWS, Docker
 
 ---
@@ -50,18 +52,8 @@ Showcase 3–6 standout projects with bullet list:
 
 ---
 
-## Other Repositories
-Organize them into categories:
-### Data Analysis / Python
-- Repo1 — description
-- Repo2 — description
-
-### Web Development
-- Repo3 — description
-
----
-
 ## Connect with Me
 - [CV on Canva](https://www.canva.com/…)
 - [LinkedIn](https://www.linkedin.com/in/…)
 - [My GitHub profile](https://github.com/caterinamennito)
+</div>
