@@ -69,8 +69,3 @@ Some of my recent projects from BeCode Data Engineering bootcamp
 - [CV on Canva](https://www.canva.com/…)
 - [LinkedIn](https://www.linkedin.com/in/…)
 - [My GitHub profile](https://github.com/caterinamennito)
-
----
-
-<img width="1352" height="2014" alt="image" src="https://github.com/user-attachments/assets/9779ac84-0ac7-4295-b9e4-92c39b2fa02a" />
-
