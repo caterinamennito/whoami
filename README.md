@@ -62,14 +62,30 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 ## Featured Projects
 
 Some of my recent projects from BeCode Data Engineering bootcamp
+<p align="center">
 
-[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+  <a href="https://github.com/caterinamennito/challenge-caching-csv-redis">
+    <img src="https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis&cache_seconds=10" alt="challenge-caching-csv-redis" height="150"/>
+  </a>
 
-[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=immoeliza-airflow)](https://github.com/caterinamennito/immoeliza-airflow)
+  <a href="https://github.com/caterinamennito/immoeliza-airflow">
+    <img src="https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=immoeliza-airflow&cache_seconds=10" alt="immoeliza-airflow" height="150"/>
+  </a>
 
-[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+</p>
 
-[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper)](https://github.com/caterinamennito/wikipedia-scraper)
+<p align="center">
+
+  <a href="https://github.com/caterinamennito/challenge-caching-csv-redis">
+    <img src="https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis&cache_seconds=10" alt="challenge-caching-csv-redis" height="150"/>
+  </a>
+
+  <a href="https://github.com/caterinamennito/wikipedia-scraper">
+    <img src="https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper&cache_seconds=10" alt="wikipedia-scraper" height="150"/>
+  </a>
+
+</p>
+
 
 
 
