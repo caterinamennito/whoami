@@ -63,13 +63,14 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 
 Some of my recent projects from BeCode Data Engineering bootcamp
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=immoeliza-airflow)](https://github.com/caterinamennito/immoeliza-airflow)
+[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=immoeliza-airflow)](https://github.com/caterinamennito/immoeliza-airflow)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper)](https://github.com/caterinamennito/wikipedia-scraper)
+[![Readme Card](https://github-readme-stats-seven-dun-21.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper)](https://github.com/caterinamennito/wikipedia-scraper)
+
 
 
 
