@@ -92,3 +92,5 @@ Some of my recent projects from BeCode Data Engineering bootcamp
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/caterina-mennito)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/caterinamennito/whoami/output/github-contribution-grid-snake.svg)
