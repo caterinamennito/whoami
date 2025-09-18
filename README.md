@@ -63,7 +63,15 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 
 Some of my recent projects from BeCode Data Engineering bootcamp
 
-TBD
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=immoeliza-airflow)](https://github.com/caterinamennito/immoeliza-airflow)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis)](https://github.com/caterinamennito/challenge-caching-csv-redis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper)](https://github.com/caterinamennito/wikipedia-scraper)
+
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/caterina-mennito)
