@@ -25,7 +25,7 @@ That led me to web development 💻, and now I’m leveling up again through a D
 
 ## Curriculum Vitae
 
-My main professional experience in development was at [DataCamp](www.datacamp.com) where I worked for more than 5 years where I worked for over 5 years, mostly as a full-stack developer for the mobile app team.
+My main professional experience in development was at [DataCamp](www.datacamp.com) where I worked for over 5 years, mostly as a full-stack developer for the mobile app team.
 ### Key Projects & Achievements
 - Migrated the codebase from Flow to TypeScript, improving maintainability and type safety across the codebase.
 - Implemented internationalization (i18n) support, enabling global access for users in multiple languages.
