@@ -25,7 +25,6 @@ That led me to web development 💻, and now I’m leveling up again through a D
 
 ## Curriculum Vitae
 
-[Download my CV](./assets/Caterina_Mennito_CV.pdf)
 My main professional experience in development was at [DataCamp](www.datacamp.com) where I worked for more than 5 years where I worked for over 5 years, mostly as a full-stack developer for the mobile app team.
 ### Key Projects & Achievements
 - Migrated the codebase from Flow to TypeScript, improving maintainability and type safety across the codebase.
@@ -33,7 +32,7 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 - Built new interactive exercise types, by developing both the frontend UI and backend systems that supported them.
 - Integrated billing and subscription systems, streamlining the user payment experience.
 - Contributed to AI-powered learning features, leveraging machine learning APIs to enhance personalization.
-- …and many more impactful projects.
+  …and many more impactful projects.
 
 ### 🛠️ Technologies
 #### Web Development
