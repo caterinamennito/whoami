@@ -45,27 +45,26 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)
 
 #### Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
+![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ---
 
 ## Featured Projects
-Some of my recent projects from BeCode Data Engineering bootcamp
-|                                                                                                                |                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [![Spotify Music Explorer](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=elasticsearch-spotify-music-explorer&theme=tokyonight)](https://github.com/caterinamennito/elasticsearch-spotify-music-explorer) | [![Movie Social Graph](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=Movie-Social-Graph-with-Neo4j&theme=tokyonight)](https://github.com/caterinamennito/Movie-Social-Graph-with-Neo4j) |
-| [![Library Catalog](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=Library-catalog---MongoDB&theme=tokyonight)](https://github.com/caterinamennito/Library-catalog---MongoDB) | [![Caching with Redis](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=challenge-caching-csv-redis&theme=tokyonight)](https://github.com/caterinamennito/challenge-caching-csv-redis) |
-[![Wikipedia Scraper](https://github-readme-stats.vercel.app/api/pin/?username=caterinamennito&repo=wikipedia-scraper&theme=tokyonight)](https://github.com/caterinamennito/wikipedia-scraper)
 
+<p>Some of my recent projects from BeCode Data Engineering bootcamp</p>
+<p>TBD</p>
 
----
 
 ## Connect with Me
-- [CV on Canva](https://www.canva.com/…)
-- [LinkedIn](https://www.linkedin.com/in/…)
-- [My GitHub profile](https://github.com/caterinamennito)
+- [LinkedIn](https://www.linkedin.com/in/caterina-mennito)
