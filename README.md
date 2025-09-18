@@ -61,9 +61,9 @@ My main professional experience in development was at [DataCamp](www.datacamp.co
 
 ## Featured Projects
 
-<p>Some of my recent projects from BeCode Data Engineering bootcamp</p>
-<p>TBD</p>
+Some of my recent projects from BeCode Data Engineering bootcamp
 
+TBD
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/caterina-mennito)
